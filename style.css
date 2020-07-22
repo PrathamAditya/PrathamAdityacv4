@@ -1,0 +1,95 @@
+body {
+  text-align: center;
+}
+
+h1  {
+  margin: 10px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+p{
+  font-family: 'Alice', serif;
+
+}
+h2{
+    font-family: 'Alice', serif;
+    font-size: 2.5rem;
+      color: #66BFBF;
+      padding-bottom: 25px;
+      font-weight: normal;
+
+}
+h3{
+  font-family: 'Alice', serif;
+color: #11999E;
+}
+.top-container {
+  background-color: #E4E8E1;
+  padding-top: 100px
+}
+
+.bottom-cloud {
+  position: relative;
+  bottom: 320px;
+  right: 200;
+}
+
+.top-cloud {
+  position: relative;
+  left: 215px
+}
+
+.bottom-mountain {
+  position: relative;
+  right: 15px;
+  image-resolution: 2em;
+  bottom: 20px;
+}
+
+.middlecloud {
+  position: relative;
+  left: 160px;
+  bottom: 125px;
+}
+.btn{
+  color: #66BFBF;
+}
+.second-image{
+  height:200px;
+  width: 220px;
+}
+.third-image{
+  height:200px;
+  width: 220px;
+}
+.first-image{
+  padding-top: 60px;
+  height:200px;
+  width: 220px;
+}
+
+.hello-greeting{
+  font-family: 'Pacifico', cursive;
+
+}
+.hello-greeting-text{
+  font-weight: 300;
+  font-size: 3em;
+  color: #545454;
+  text-align: center;
+}
+.asd{
+    font-size: 1.5em;
+}
+.first-boy{
+  width: 100px;
+  height: 100px;
+  position: relative;
+  bottom: 640px;
+  right: 30px;
+}
+.middlecloud{
+  position: relative;
+  bottom: 300px;
+}
